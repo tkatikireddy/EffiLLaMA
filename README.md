@@ -41,7 +41,7 @@ For more details, check the QLoRA paper:
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/AnanthaPadmanaban-KrishnaKumar/EffiLLaMA.git
+git clone https://github.com/tkatikireddy/EffiLLaMA
 cd EffiLLaMA
 ```
 
@@ -127,4 +127,4 @@ LangChain for efficient text preprocessing.
 Research on LoRA and QLoRA for parameter-efficient fine-tuning methods.
 
 ## License
-This project is licensed under the MIT. See the [LICENSE](https://github.com/AnanthaPadmanaban-KrishnaKumar/EffiLLaMA/blob/main/LICENSE) file for details.
+This project is licensed under the MIT. See the [LICENSE](https://github.com/tkatikireddy/EffiLLaMA/blob/main/LICENSE) file for details.
